@@ -44,7 +44,7 @@ The following steps should be used to install:
 Navigate to:
 [https://markhatthorinc.github.io/01-HTML-Git-CSS-Homework/](https://markhatthorinc.github.io/01-HTML-Git-CSS-Homework/)
 
-**Mockup:**
+**Image of Site:**
 ![Horiseon Marketing Page](./assets/images/HoriseonSocialSoutionService.png)
 
 
