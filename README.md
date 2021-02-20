@@ -44,7 +44,7 @@ The following steps should be used to install:
 Navigate to your ```your-github-username/your-repo-name```, example: [https://markhatthorinc.github.io/01-HTML-Git-CSS-Homework/Develop/](https://markhatthorinc.github.io/01-HTML-Git-CSS-Homework/Develop/)
 
 ```md
-![Horiseon Marketing Page](assets/images/HoriseonSocialSolutionService.png)
+![Horiseon Marketing Page](./assets/images/HoriseonSocialSolutionService.png)
 ```
 
 
