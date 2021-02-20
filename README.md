@@ -41,12 +41,12 @@ The following steps should be used to install:
 
 ## Usage 
 
-Navigate to you ```md
+Navigate to: ```
 [https://markhatthorinc.github.io/01-HTML-Git-CSS-Homework/](https://markhatthorinc.github.io/01-HTML-Git-CSS-Homework/)
 ```
 
-```md
-![Horiseon Marketing Page](./assets/images/HoriseonSocialSolutionService.png)
+```
+[Horiseon Marketing Page](./assets/images/HoriseonSocialSolutionService.png)
 ```
 
 
